@@ -1,0 +1,12 @@
+#button {
+    background: red;
+}
+
+.card{
+    border: solid lightgreen;
+    width: 220px;
+    height: 30px;
+    margin-top: 25px;
+    background: lightsalmon;
+}
+
